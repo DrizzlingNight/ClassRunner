@@ -30,7 +30,7 @@ Windows 共用教室的個人帳號準備與下課登出工具。第三方帳號
 - Chrome、Edge、LINE、Claude、VS Code 及其擴充功能須另外安裝，Portable 不包含這些第三方軟體。
 - 登入候選涵蓋 Chrome／Edge 本身帳號、GitHub 網站、LINE、Claude Desktop／Code、VS Code 帳號及 Copilot／Claude Code／Codex 擴充功能。候選入口及合成測試不代表所有原廠版本都已真人驗收。
 - Chrome／Edge 本身帳號目前限一般 Default Profile；原廠遠端連線與帳號確認必須本人允許。瀏覽器及第三方認證格式改版可能要求重新登入。
-- Claude Desktop 的官方 Windows 安裝位置限制尚待解決；未完成可用性驗收。Copilot 等服務的帳號、訂閱及權限由原廠決定。
+- Claude Desktop 可辨識既有的官方 Windows MSIX 安裝；真人登入及憑證重用仍待驗收。LINE 未提供可讀帳號介面的版本，需本人在「設定 → 個人資料」核對後保存本機密文，保存完成不代表自動登入已驗證。Copilot 等服務的帳號、訂閱及權限由原廠決定。
 
 ## 更新
 
